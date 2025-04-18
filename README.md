@@ -32,7 +32,11 @@ An automated bot for TheVapeLabs airdrop platform that handles battery tapping a
 ```
 nano tokens.txt
 ```
-![image](https://github.com/user-attachments/assets/504b717d-67cf-42b5-841c-4c8d7dc54590)
+![image](https://github.com/user-attachments/assets/fb74f315-9695-4d72-b4b5-f82113e38587)
+
+### Right-click on an empty website area or an element, and select Inspect. Alternatively, use the keyboard shortcut Ctrl+Shift+C
+### Click ``Application`` & ``Local Storage``
+### Copy Your Access Token & Save (CTRL+X+Y)
 
 4. Run the bot:
    ```
