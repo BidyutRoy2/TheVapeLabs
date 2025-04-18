@@ -32,11 +32,13 @@ An automated bot for TheVapeLabs airdrop platform that handles battery tapping a
 ```
 nano tokens.txt
 ```
+![image](https://github.com/user-attachments/assets/504b717d-67cf-42b5-841c-4c8d7dc54590)
 
 4. Run the bot:
-   ```bash
-   node index.js
    ```
+   npm start
+   ```
+## Stop Bot Type - q
 
 ## Configuration
 
