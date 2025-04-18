@@ -38,7 +38,7 @@ nano tokens.txt
    ```
    npm start
    ```
-## Stop Bot Type - q
+## Stop Bot Press - q
 
 ## Configuration
 
