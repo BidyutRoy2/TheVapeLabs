@@ -20,7 +20,7 @@ An automated bot for TheVapeLabs airdrop platform that handles battery tapping a
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/BidyutRoy2/TheVapeLabs.git
    cd TheVapeLabs
    ```
 
